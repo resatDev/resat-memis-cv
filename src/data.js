@@ -19,7 +19,7 @@ export const CVData = {
     {
       type: 'text',
       title: 'Career Profile',
-      content: 'When I was child, I always want to be a developer. I think I am now. Culpa proident ad officia minim Lorem sint excepteur irure culpa nisi aliquip nostrud.Laborum voluptate nostrud fugiat occaecat proident veniam excepteur pariatur amet ex sit.Anim aliquip do in commodo adipisicing.Nulla adipisicing nisi enim ullamco sunt veniam.Ullamco labore sunt Lorem veniam id et Lorem magna eiusmod aute. Aliquip minim est consectetur anim mollit aliqua ex elit do et nulla do. Cupidatat ad sunt cillum sint consectetur sunt cillum eiusmod ad esse aliqua. Aute anim elit amet in duis aute ipsum deserunt qui deserunt officia excepteur veniam. Et laboris nostrud est ipsum nulla fugiat deserunt magna velit irure. Ullamco duis ut magna ea tempor enim in ipsum.',
+      content: 'I am a Software Developer who is curious about many parts of Software Development Job as Full Stack. I am currently working on Web Development area as Junior Front End Developer. Back End development, Developing Mobile Applications, DevOps operations and some other parts of software are also my interesting areas. However, Front End Development is enjoyable area for me and I prefer to focus on this area. Briefly, you can know me as an Eager to Learn, Curious and fast learner Software Developer. ',
       icon: 'usertie'
     },
     {
